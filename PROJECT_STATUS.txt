@@ -1,0 +1,3 @@
+Army Rush prototype source package
+Source included; APK is built by GitHub Actions (see apk/ and Releases).
+2D Canvas prototype, not final 3D assets.
